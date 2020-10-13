@@ -3,7 +3,7 @@
 	"url": "https://github.com/aramwram/nodebb-plugin-iframe-resizable",
 	"library": "./library.js",
 	"hooks": [
-		{
+ 		{
 			"hook": "filter:scripts.get", "method": "addIframeResizableScript"
 		}
 	]
