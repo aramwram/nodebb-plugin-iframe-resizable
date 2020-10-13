@@ -1,6 +1,9 @@
 # nodebb-plugin-iframe-resizable
 NodeBB plugin which providers host script for iframe-resizer library.
 
+[![npm version](https://badge.fury.io/js/nodebb-plugin-iframe-resizable.svg)](https://badge.fury.io/js/nodebb-plugin-iframe-resizable)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/aramwram/nodebb-plugin-iframe-resizable/blob/main/LICENSE)
+
 ## Purpose
 nodebb-plugin-iframe-resizable simply embeds [iframe-resizer](https://www.npmjs.com/package/iframe-resizer) guest script ([iframeResizer.contentWindow.min.js](https://raw.githubusercontent.com/davidjbradshaw/iframe-resizer/v4.2.11/js/iframeResizer.contentWindow.min.js)) into [NodeBB](https://nodebb.org) application.
 
