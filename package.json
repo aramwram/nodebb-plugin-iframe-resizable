@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-iframe-resizable",
-  "version": "4.2.11",
+  "version": "4.2.12",
   "description": "NodeBB plugin which providers host script for iframe-resizer library",
   "main": "library.js",
   "repository": {
