@@ -18,4 +18,4 @@ You have some web application which hosts NodeBB forum in an iframe and you want
 - Follow further instructions from [here](https://www.npmjs.com/package/iframe-resizer#getting-started).
 
 ## Versioning
-It'ssupposed that versions of nodebb-plugin-iframe-resizable are mapped exactly to the versions of iframe-resizer package starting from [v.4.2.11](https://www.npmjs.com/package/iframe-resizer/v/4.2.11) so taht it will always be easy to find a proper version of nodebb-plugin-iframe-resizable for a given version of iframe-resizer package.
+It's supposed that versions of nodebb-plugin-iframe-resizable are mapped exactly to the versions of iframe-resizer package starting from [v.4.2.11](https://www.npmjs.com/package/iframe-resizer/v/4.2.11) so taht it will always be easy to find a proper version of nodebb-plugin-iframe-resizable for a given version of iframe-resizer package.

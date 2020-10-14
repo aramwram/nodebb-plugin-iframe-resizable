@@ -3,11 +3,11 @@
 const plugin = {};
 
 plugin.addIframeResizableScript = function (list, callback) {
-	list.push(
-		'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.js'
-	);
+  list.push(
+    'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js'
+  );
 
-	callback(null, list);
+  callback(null, list);
 };
 
 module.exports = plugin;
